@@ -3,7 +3,7 @@
 
 ### Hi there, welcome to my github page👋
 
-I am Reda from Morocco, I am working as a machine learning engineer and Phd researcher in Belgium. I do a lot of things, using Python and datasets...
+I am Reda from Morocco now working as a machine learning engineer and Phd researcher in Belgium. I do a lot of things, using Python and datasets...
 
 
 ### What do I do?
@@ -15,5 +15,7 @@ I am Reda from Morocco, I am working as a machine learning engineer and Phd rese
   <img alt="Scikit-learn" src="https://img.shields.io/badge/scikit-learn-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge" />
   <img alt="Pandas" src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?logo=django&logoColor=white&style=for-the-badge" />
-  <img alt="Raspberry pi" src="https://img.shields.io/badge/Raspberry Pi-C51A4A?logo=raspberrypi&logoColor=white&style=for-the-badge" />
+  <img alt="Raspberry pi" src="https://img.shields.io/badge/RaspberryPi-C51A4A?logo=raspberry-pi&logoColor=white&style=for-the-badge" />
+   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-bage" />
+
 </p>
