@@ -19,3 +19,23 @@ I am Reda from Morocco now working as a machine learning engineer and Phd resear
    <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white&style=for-the-bage" />
 
 </p>
+
+---
+
+- I am currently working on my Phd thesis.
+- I do some freelance projects related to different machine learning topics
+
+---
+
+### Send me a message
+
+I am open for collaborations, so if you feel intersted in my work, please send me a message! Even if you don't, send me a message anyway! Here is where you can find me:
+
+<p>
+  <a href="https://twitter.com/redomy1>
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/reda-el-hail-276874127/">
+    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" />
+  </a>
+</p>
