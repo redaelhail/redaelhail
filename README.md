@@ -23,7 +23,7 @@ I am Reda from Morocco now working as a machine learning engineer and Phd resear
 ---
 
 - I am currently working on my Phd thesis.
-- I do some freelance projects related to different machine learning topics
+- I am also a freelancer, I work on projects related to different machine learning algorithms.
 
 ---
 
